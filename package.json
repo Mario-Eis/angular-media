@@ -1,0 +1,9 @@
+{
+  "name": "test",
+  "version": "0.0.0",
+  "dependencies": {
+    "proxy-middleware": "~0.5.0"
+  },
+  "peerDependencies": {
+  }
+}
