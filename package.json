@@ -1,7 +1,7 @@
 {
   "name": "angular-media",
   "version": "1.0.6",
-  "main": "dist/scripts/angular.media.min"
+  "main": "dist/scripts/angular.media.min",
   "dependencies": {
     "jquery": ">2.0.3",
     "angular": ">1.2.0",
